@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "635231424803",
+    "firebase_url": "https://teamtracker-c77b8-default-rtdb.firebaseio.com",
+    "project_id": "teamtracker-c77b8",
+    "storage_bucket": "teamtracker-c77b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635231424803:android:9486ce51b40c71d7b7bc96",
+        "android_client_info": {
+          "package_name": "com.example.lead_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635231424803-jt5o6i4ak78l46okgfchuk3iupdevaao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbS9vbU0xUADD9jl-5sAWS5CPeRXMgSlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635231424803-jt5o6i4ak78l46okgfchuk3iupdevaao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635231424803:android:ec80ce42c7ae8522b7bc96",
+        "android_client_info": {
+          "package_name": "com.example.team_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635231424803-jt5o6i4ak78l46okgfchuk3iupdevaao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbS9vbU0xUADD9jl-5sAWS5CPeRXMgSlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635231424803-jt5o6i4ak78l46okgfchuk3iupdevaao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
